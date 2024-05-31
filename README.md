@@ -1,2 +1,4 @@
-# correct-viewport-on-mobile-ios
-Possible workaround for viewport height with checks for IOS browsers as well
+# Correct Viewport Height on Mobile
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/team/css-tricks/pen/WKdJaB](https://codepen.io/team/css-tricks/pen/WKdJaB).
+
